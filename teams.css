@@ -1,0 +1,41 @@
+
+.title {
+    background-color: white;
+}
+
+
+h1 {
+    text-align: center;
+    border: solid;
+    padding: 4%;
+    font-family: 'Times New Roman', Times, serif
+}
+body {
+    width: 1200px;
+    margin: auto;
+}
+.welcome {
+    float: right;
+    margin-right: 180px;
+}
+.intro {
+    float: right;
+    vertical-align: top;
+    margin-left: 600px;
+    margin-top: -250px;
+    text-align: justify;
+}
+.setup {
+    float: right;
+    margin-right: 220px;
+}
+.account {
+    float: right;
+    vertical-align: top;
+    margin-left: 600px;
+    margin-top: -250px;
+}
+footer {
+    text-align: center;
+    border: solid;
+}
