@@ -13,6 +13,7 @@ h1 {
 body {
     width: 1200px;
     margin: auto;
+    background-color: darkgray;
 }
 .welcome {
     float: right;
@@ -24,6 +25,7 @@ body {
     margin-left: 600px;
     margin-top: -250px;
     text-align: justify;
+    padding-right: 10px;
 }
 .setup {
     float: right;
@@ -34,8 +36,14 @@ body {
     vertical-align: top;
     margin-left: 600px;
     margin-top: -250px;
+    padding-right: 10px;
 }
 footer {
     text-align: center;
-    border: solid;
+}
+.section1 {
+    background-color: white;
+}
+.section2 {
+    background-color: white;
 }
